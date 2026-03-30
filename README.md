@@ -8,8 +8,6 @@
 > **Projeto aprimorado** do Desafio 01 da Trilha de CSS da DIO.  
 > Uma landing page futurista com tema espacial que demonstra todos os conceitos aprendidos na imersão.
 
-![Preview do Projeto](https://via.placeholder.com/800x400/0A0A2A/00FFCC?text=ORBIT+CSS+PREVIEW)
-
 ## ✨ O que foi implementado
 
 - ✅ HTML5 semântico  
