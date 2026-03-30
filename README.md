@@ -1,22 +1,54 @@
-# Desafio 01: Criando sua primeira Landing Page com HTML e CSS
+# 🌌 Orbit CSS - Desafio 01 | Trilha CSS DIO
 
-Bem vindo(a) ao primeiro desafio da Trilha de CSS da DIO! Nela, você vai construir sua primeira Landing Page com HTML e CSS, colocando em prática os fundamentos do CSS,
-as propriedades básicas da linguagem de estilização, além de trabalhar com as unidades de medidas relativas e absolutas que aprendemos ao longo da trilha.
+![GitHub repo size](https://img.shields.io/github/repo-size/charlessouza73067/trilha-css-desafio-01?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/charlessouza73067/trilha-css-desafio-01?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/charlessouza73067/trilha-css-desafio-01?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/charlessouza73067/trilha-css-desafio-01?style=for-the-badge)
 
-[Clique aqui](https://micheleambrosio.github.io/dio-trilha-css-desafio-01/) para acessar o resultado final da Landing Page criada a partir do desafio!
+> **Projeto aprimorado** do Desafio 01 da Trilha de CSS da DIO.  
+> Uma landing page futurista com tema espacial que demonstra todos os conceitos aprendidos na imersão.
 
-![image](https://user-images.githubusercontent.com/55519539/183538055-6cce606c-7d1d-4d15-a4be-ffeb5b37c956.png)
+![Preview do Projeto](https://via.placeholder.com/800x400/0A0A2A/00FFCC?text=ORBIT+CSS+PREVIEW)
 
-Para você realizar o desafio, basta fazer um **fork** para o seu GitHub e começar a mexer no projeto.
-Dentro da pasta *main*, você vai encontrar todas as imagens e o arquivo HTML, contendo a estrutura básica da sua página, faltando apenas
-realizar a estilização da sua página. É necessário que você faça toda a parte responsável por interligar sua página HTML com suas folhas
-de estilo para que o resultado da estilização funcione.
+## ✨ O que foi implementado
 
-[Link do Figma](https://www.figma.com/file/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?node-id=2%3A6) contendo o protótipo do desafio para
-que você possa se basear.
+- ✅ HTML5 semântico  
+- ✅ CSS puro (sem frameworks)  
+- ✅ Variáveis CSS (`:root`)  
+- ✅ Unidades relativas (`rem`, `%`, `vh`, `vw`)  
+- ✅ Shorthand `margin` e `padding` (com 3 valores)  
+- ✅ `border-radius` com valores diferentes por canto  
+- ✅ `box-shadow` com `inset` (sombra interna)  
+- ✅ `text-overflow`, `text-transform: uppercase` e `text-decoration: none`  
+- ✅ `object-fit` em imagens  
+- ✅ `overflow: hidden`  
+- ✅ Gradiente no texto com `background-clip: text`  
+- ✅ Layout responsivo (Mobile First + Flexbox + Grid)  
+- ✅ Hover effects com `transition`  
+- ✅ Tema dark futurista (Orbit CSS)
 
-*Observações: para aplicar os textos em gradiente, utilize a propriedade CSS background-clip, porém, para funcionar em alguns navegadores,
-é necessário utilizar a propriedade -webkit-background-clip: text;*
+## 🚀 Demonstração ao vivo
 
-Caso tenha alguma dúvida, ou queira comparar o resultado do desafio que você fez, nós temos o site finalizado na branch *final*. Basta alterar a branch do projeto
-utilizando o comando `git checkout final` no seu terminal.
+🔗 **[Ver projeto online](https://charlessouza73067.github.io/trilha-css-desafio-01/)**  
+*(link será ativado assim que você habilitar o GitHub Pages)*
+
+## 🛠️ Tecnologias utilizadas
+
+- HTML5
+- CSS3
+- Git & GitHub
+
+## 📸 Preview
+
+*(insira aqui uma captura de tela do seu projeto quando estiver pronto)*
+
+## 📌 Como rodar localmente
+
+```bash
+# Clone o repositório
+git clone https://github.com/charlessouza73067/trilha-css-desafio-01.git
+
+# Entre na pasta
+cd trilha-css-desafio-01
+
+# Abra o index.html no navegador
